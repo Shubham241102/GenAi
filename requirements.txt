@@ -4,7 +4,9 @@ pandas==1.5.3
 transformers==4.34.0
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
-numpy==1.24.3
-torch==2.1.0
-typing-extensions>=4.5.0
-
+gradio-client==0.8.0
+huggingface-hub==0.19.3
+tensorflow==2.13.0
+typing-extensions==4.12.2
+langchain==0.1.33
+pydantic==2.10.5
